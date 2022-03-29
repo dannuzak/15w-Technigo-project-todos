@@ -11,7 +11,7 @@ This week's project was aimed to pull together all the parts of redux by buildin
 The app functions:
 - to addd tasks
 - list tasks
-- toggle weather a task is done or not
+- toggle wether a task is done or not
 
 
 ## How I buit it
