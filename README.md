@@ -14,7 +14,7 @@ The app functions:
 - toggle wether a task is done or not
 
 
-## How I buit it
+## How I built it
 
 1. Sketcked the design to visualize the components and features that would be needed to implement. This brought clearity about the actions that I would need to dispactch and the Redux flow that my app would follow. 
 2. Configurated my **Store** with an empty array as **initial state**. 
