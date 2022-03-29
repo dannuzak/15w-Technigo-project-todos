@@ -14,12 +14,6 @@ The app functions:
 -toggle weather a task is done or not
 
 
-The app functions:
--to addd tasks
--list tasks
--toggle weather a task is done or not
-
-
 ## How I buit it
 
 1. Sketcked the design to visualize the components and features that would be needed to implement. This brought clearity about the actions that I would need to dispactch and the Redux flow that my app would follow. 
